@@ -1,0 +1,1 @@
+* */6 * * *  /usr/bin/python /var/www/html/resgrp/cnerg/idiomatic/updateDB.py >> /var/www/html/resgrp/cnerg/idiomatic/updateDBcron.log
